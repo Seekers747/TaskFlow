@@ -3,6 +3,9 @@
 ##
 ## Get latest from `dotnet new gitignore`
 
+# Own stuff
+/ARCHITECTURE_AND_INTERVIEW_GUIDE.md
+
 # dotenv files
 .env
 
